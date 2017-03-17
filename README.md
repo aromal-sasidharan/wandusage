@@ -5,8 +5,8 @@ Installing Wand Version: 0.4.4
 pip install wand
 
 
-dependencies Install
-
+## Dependencies Install
+To use wand we have to install dependencies
 
 ===== MAC ====
 ```sh
